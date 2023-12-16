@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" width="40" height="40" alt="Telegram" />
     </a>
     <a href="https://vk.com/id174077157" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>
     </a>
   </div>
 
