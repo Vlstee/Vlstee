@@ -20,7 +20,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/Vlstee" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" width="40" height="40" alt="Telegram" />
     </a>
     <a href="https://vk.com/id174077157" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
@@ -39,9 +39,6 @@
 > <br>![Pycharm](https://img.shields.io/badge/Pycharm-success?style=for-the-badge&logo=pycharm&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-brightgreen?style=for-the-badge&logo=swagger&logoColor=black)
-> <br>![Trello](https://img.shields.io/badge/Trello-yellow?style=for-the-badge&logo=trello&logoColor=black)
-![Redmine](https://img.shields.io/badge/Redmine-red?style=for-the-badge&logo=redmine&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-blueviolet?style=for-the-badge&logo=figma&logoColor=black)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=felbushe&style=plastic-square&color=blue" alt=""/>
