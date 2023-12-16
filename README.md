@@ -40,9 +40,5 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-brightgreen?style=for-the-badge&logo=swagger&logoColor=black)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=felbushe&style=plastic-square&color=blue" alt=""/>
-</div>
-
 ---
 
