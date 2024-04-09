@@ -3,10 +3,7 @@
 ---
 
 ### :man_technologist: Обо мне:
-- :seedling: Прошел курсы автоматизатора на Python от SkillFactory! [_сертификат_](https://drive.google.com/drive/folders/1sKyISvbpqMEgI2ggfK8YdXBheZQDm4jr)
-  
-- :telescope: Прошел стажировку в Shopiland. [_сертификат_](https://drive.google.com/drive/folders/1sKyISvbpqMEgI2ggfK8YdXBheZQDm4jr)
-  
+
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Vlstee) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:stetsuykvlad@gmail.com) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vlad.stetsuyk@yandex.ru)
 
 
