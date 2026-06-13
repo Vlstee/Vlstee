@@ -4,9 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Vlstee) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:stetsuykvlad@gmail.com) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vlad.stetsuyk@yandex.ru)
-
-
+- :mailbox: Как связаться со мной: 
 ---
 
 ### 🤝 Социальные сети:
